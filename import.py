@@ -4,6 +4,9 @@ import modules
 
 modules.greet("Vipin")
 
-result = modules.add(10, 20)
+addition = modules.add(10, 20)
 
-print(result)
+subtraction = modules.sub(30,20)
+
+print(addition)
+print(subtraction)
