@@ -2,7 +2,7 @@
 
 import modules
 
-modules.greet("Vipin")
+modules.greet(input("Enter your name: "))
 
 addition = modules.add(10, 20)
 
